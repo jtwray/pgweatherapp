@@ -28,7 +28,7 @@ DEBUG = True
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['murmuring-bastion-58481.herokuapp.com']
 
 
 # Application definition
